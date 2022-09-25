@@ -1,4 +1,3 @@
-import "./css/todo.css";
 
 // ーーーーーーイベントーーーーーー
 const onClickAdd = () => {
